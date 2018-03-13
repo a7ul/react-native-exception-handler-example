@@ -32,7 +32,7 @@ This runs the app on simulator in release configuration.
 <br>
 
 <div style="text-align:center">
-  <img src="https://github.com/master-atul/react-native-exception-handler-example/raw/master/screens/1.png" style="width: 50%;display: inline;">
+  <img src="https://github.com/master-atul/react-native-exception-handler-example/raw/master/screens/1.png" style="width: 30%;display: inline;">
 </div>
 <br>
 
@@ -42,7 +42,7 @@ This runs the app on simulator in release configuration.
 <br>
 
 <div style="text-align:center">
-  <img src="https://github.com/master-atul/react-native-exception-handler-example/raw/master/screens/2.png" style="width: 50%;display: inline;">
+  <img src="https://github.com/master-atul/react-native-exception-handler-example/raw/master/screens/2.png" style="width: 30%;display: inline;">
 </div>
 <br>
 
@@ -52,7 +52,7 @@ This runs the app on simulator in release configuration.
 <br>
 
 <div style="text-align:center">
-  <img src="https://github.com/master-atul/react-native-exception-handler-example/raw/master/screens/3.png" style="width: 50%;display: inline;">
+  <img src="https://github.com/master-atul/react-native-exception-handler-example/raw/master/screens/3.png" style="width: 30%;display: inline;">
 </div>
 <br>
 
