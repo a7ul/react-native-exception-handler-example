@@ -13,15 +13,19 @@ I have integrated both JS Exception handler and Native exception handler here to
 To run the app:
 1. `git clone https://github.com/master-atul/react-native-exception-handler-example`
 2. `yarn install`
-3. `react-native run-ios` or `react-native run-android`
+3. `react-native run-ios --configuration Release` or `react-native run-android --variant=release`
 
+JS Exceptions can be caught even when running in development mode, Since I have enabled Catching JS Exceptions during development. So for JS exceptions you can run `react-native run-ios` or `react-native run-android`.
 
-I have enabled Catching JS Exceptions during development. 
 Hence if you click on **Cause JS Exception** Button, you should see the error been caught straight away.
 
 In case of native exceptions . You would need to run the app in the bundled mode using:
 
 `react-native run-ios --configuration Release`
+
+For Android you can run it using: 
+
+`react-native run-android --variant=release`
 
 This runs the app on simulator in release configuration.
 
